@@ -111,7 +111,7 @@
     "deepbooru_filter_tags": "",
     "extra_networks_show_hidden_directories": true,
     "extra_networks_hidden_models": "When searched",
-    "extra_networks_default_view": "cards",
+    "extra_networks_default_view": "thumbs",
     "extra_networks_default_multiplier": 1.0,
     "extra_networks_card_width": 0,
     "extra_networks_card_height": 0,
